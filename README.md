@@ -1,7 +1,7 @@
 # <p align="center">✨ Hi, I'm Giulia ✨</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Graphics+%26+Embedded+Systems;AI+Automation+%26+Robotics;React+%26+Spring+Boot;3rd+Year+CS+Student+@+UTCN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=3rd+Year+CS+Student+@+UTCN;Embedded+Systems+%26+Graphics;AI+Automation+%26+Robotics;React+%26+Spring+Boot" alt="Typing SVG" />
   </a>
 </p>
 
