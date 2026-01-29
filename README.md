@@ -8,9 +8,12 @@
 ---
 
 ### About Me
-3rd Year CS Student @ UTCN with a proven ability to rapidly adapt to diverse tech stacks, from low-level systems to modern web ecosystems.  
-I specialize in bridging Computer Vision with Robotics while maintaining a high standard for clean, scalable architecture in every project I tackle.  
-Whether engineering 3D environments or secure backends, I thrive on learning new frameworks and delivering optimized solutions under any constraints.
+Hi! I’m a 3rd-year Computer Science student at UTCN 
+
+I enjoy working across different areas of CS, from low-level systems to modern web projects, and I’m especially interested in Computer Vision x Robotics.
+Whether I’m building 3D environments or working on backend systems, I enjoy learning new frameworks; especially the part where I go down little research and debugging rabbit holes to understand and improve my code. 
+
+Sidetracking cool stuff > Finalizing my builds
 
 ---
 
